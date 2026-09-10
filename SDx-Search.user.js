@@ -12,8 +12,8 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
 // @run-at       document-start
 // @noframes
-// @downloadURL https://raw.githubusercontent.com/JGtz-BMcD/SDx_Search/main/SDx-Search.user.js
-// @updateURL https://raw.githubusercontent.com/JGtz-BMcD/SDx_Search/main/SDx-Search.user.js
+// @downloadURL https://raw.githubusercontent.com/JGtz-BMcD/SDx-Search/main/SDx-Search.user.js
+// @updateURL https://raw.githubusercontent.com/JGtz-BMcD/SDx-Search/main/SDx-Search.user.js
 // @Author        Josue Gutierrez
 // ==/UserScript==
 (function () {
