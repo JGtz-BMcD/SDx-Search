@@ -14,7 +14,7 @@
 // @noframes
 // @downloadURL https://raw.githubusercontent.com/JGtz-BMcD/SDx-Search/main/SDx-Search.user.js
 // @updateURL https://raw.githubusercontent.com/JGtz-BMcD/SDx-Search/main/SDx-Search.user.js
-// @Author    Josue Gutierrez
+// @author    Josue Gutierrez
 // ==/UserScript==
 (function () {
     'use strict';
