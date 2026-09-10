@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SDx Search
 // @namespace    https://github.com/JGtz-BMcD/SDx-Search
-// @version      1.1
+// @version      1.2
 // @description  SDx Search: live as-you-type preview (searches SDx and your local content index), a results overlay on the new SDx tab, advanced filters, side-bar launcher, and an opportunistic local content index
 // @match        https://*.intergraphsmartcloud.com/*
 // @grant        GM_getValue
