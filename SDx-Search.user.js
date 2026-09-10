@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         SDx Searcher
-// @namespace    local.sdx.searcher
+// @name         SDx Search
+// @namespace    local.sdx.search
 // @version      1.0
-// @description  SDx Searcher: live as-you-type preview (searches SDx and your local content index), a results overlay on the new SDx tab, advanced filters, side-bar launcher, and an opportunistic local content index
+// @description  SDx Search: live as-you-type preview (searches SDx and your local content index), a results overlay on the new SDx tab, advanced filters, side-bar launcher, and an opportunistic local content index
 // @match        https://*.intergraphsmartcloud.com/*
 // @grant        GM_getValue
 // @grant        GM_setValue
